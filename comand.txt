@@ -1,0 +1,2 @@
+pip freeze > requirements.txt. команда для создания файла окружения
+pip install -r requirements.txt. Команда для переноса библиотек на др комп
