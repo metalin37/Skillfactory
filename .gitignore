@@ -18,3 +18,9 @@ Project/PROJECT-5. Задача регрессии/holiday_data.csv
 Project/PROJECT-5. Задача регрессии/data/train.csv
 Project/PROJECT-5. Задача регрессии/data/holiday_data.csv
 Project/PROJECT-5. Задача регрессии/data/osrm_data_train.csv
+Project/PROJECT-5. Задача регрессии/data/weather_data.csv
+Project/PROJECT-5. Задача регрессии/data/Project5_osrm_data_test.csv
+Project/PROJECT-5. Задача регрессии/data/Project5_test_data.csv
+Project/PROJECT-5. Задача регрессии/data/test.csv
+.gitignore
+Project/PROJECT-5. Задача регрессии/data/osrm_data_test.csv
